@@ -1,0 +1,11 @@
+{
+  "newInterface": {
+    "title": "New interfaces",
+    "index": 89
+  },
+  "newInterface/interface_example": {
+    "title": "New interface example",
+    "view": "vuci-app-example-interfaces",
+    "index": 9
+  }
+}
